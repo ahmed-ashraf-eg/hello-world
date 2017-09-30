@@ -1,0 +1,9 @@
+  /*"eslintConfig": {
+    "plugins": ["example"],
+
+    "env": {
+      "example/custom": true
+    }
+
+    },*/
+      "mode": "xesasabu@shalar.net",
